@@ -261,3 +261,60 @@ No max speed due to our Faster than Light Proof via motherboards
             Tubes
             Fittings
             Motherboard
+            Barrel
+
+Muzzle
+Rifling
+Receiver
+Bolt
+Bolt carrier group
+Ejection port
+Stock
+Buttstock
+Cheek rest
+Recoil pad
+Forearm/Forend
+Handguard
+Trigger Mechanism
+Trigger
+Trigger guard
+Linkage system (connecting trigger to the sear, which is further back due to the bullpup design)
+Magazine
+Magazine well (located behind the trigger)
+Magazine release
+Sights
+Iron sights (front and rear)
+Scope or optical sight
+Red dot sight
+Safety Mechanism
+Safety lever
+Selector switch (on some models)
+Sling Swivels
+Charging Handle
+Gas System (on gas-operated rifles)
+Gas block
+Gas tube or piston
+Muzzle Device
+Flash suppressor
+Muzzle brake
+Compensator
+Rail System
+Picatinny rail
+M-LOK slots
+KeyMod slots
+Bolt Catch/Release
+Dust Cover (on some models)
+Forward Assist (on some models)
+Recoil System
+Buffer tube (if applicable, though many bullpups integrate this differently)
+Pistol Grip (often integrated into the stock design)
+Ejection Mechanism
+Deflector (to ensure safe ejection of spent casings)
+Rear Sight/Optic Mount (typically positioned above the trigger area due to the bullpup configuration)
+Fire Control Group (often located towards the rear of the rifle, behind the trigger group)
+M829
+M829A1
+M830 High-Explosive Anti-Tank (HEAT)
+M830A1 Multi-Purpose Anti-Tank (MPAT)
+M908 High-Explosive Obstacle Reduction (HE-OR)
+M1028 Canister Round
