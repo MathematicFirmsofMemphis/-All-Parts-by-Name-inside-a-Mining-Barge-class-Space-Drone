@@ -2,7 +2,7 @@
 All the parts in a mining barge space drone by their name in non-fiction or working parts:\
 
 
-Also added Blackscale-Vision for viewing deep space without the color black which is a shadow 
+Also added Blackscale-Vision for viewing deep space without the color black which is a shadow. 
 Added A System called global axis geo-vision similar to earth's geo-vision from the atmosphere features which allows humans to see geology and geography.
 This is a response to simulations that are lit and not dark and contain geography and geology which cannot be seen by camera or eye that is not at a specific geo-
 
