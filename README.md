@@ -1,6 +1,9 @@
 # -All-Parts-by-Name-inside-a-Mining-Barge-class-Space-Drone
 All the parts in a mining barge space drone by their name in non-fiction or working parts:\
 
+
+Added A System called geo-vision similar to earth's geo-vision from the atmosphere features which allows humans to see geology and geography
+
 Test them in a black hole simulation and air flow simulation and more for fracture prevention!
 No max speed due to our Faster than Light Proof via motherboards
 
@@ -318,3 +321,4 @@ M830 High-Explosive Anti-Tank (HEAT)
 M830A1 Multi-Purpose Anti-Tank (MPAT)
 M908 High-Explosive Obstacle Reduction (HE-OR)
 M1028 Canister Round
+Global Axis Geo-Vision(GCGSP-XYZ)
