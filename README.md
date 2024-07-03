@@ -2,7 +2,8 @@
 All the parts in a mining barge space drone by their name in non-fiction or working parts:\
 
 
-Added A System called geo-vision similar to earth's geo-vision from the atmosphere features which allows humans to see geology and geography
+Added A System called global axis geo-vision similar to earth's geo-vision from the atmosphere features which allows humans to see geology and geography.
+This is a response to simulations that are lit and not dark and contain geography and geology which cannot be seen by camera or eye that is not at a specific geo-
 
 Test them in a black hole simulation and air flow simulation and more for fracture prevention!
 No max speed due to our Faster than Light Proof via motherboards
