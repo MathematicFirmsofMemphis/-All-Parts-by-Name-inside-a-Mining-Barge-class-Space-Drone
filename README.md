@@ -325,4 +325,6 @@ M830A1 Multi-Purpose Anti-Tank (MPAT)
 M908 High-Explosive Obstacle Reduction (HE-OR)
 M1028 Canister Round
 Global Axis Geo-Vision(GCGSP-XYZ)
+Global Axis Gas-Vision
+Global Axis Liquid-Vision
 Blackscale-Vision(the lit universe without light for reality)
