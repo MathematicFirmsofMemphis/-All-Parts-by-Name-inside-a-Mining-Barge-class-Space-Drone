@@ -6,6 +6,7 @@ Also added Blackscale-Vision for viewing deep space without the color black whic
 Added A System called global axis geo-vision similar to earth's geo-vision from the atmosphere features which allows humans to see geology and geography.
 This is a response to simulations that are lit and not dark and contain geography and geology which cannot be seen by camera or eye that is not at a specific geo-
 
+Added gas vision and liquid vision with geo-vision for the mining barge-class space drone. This means you can see gas and liquids along side geography globally anywhere in deep space! 
 Test them in a black hole simulation and air flow simulation and more for fracture prevention!
 No max speed due to our Faster than Light Proof via motherboards
 
