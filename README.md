@@ -329,3 +329,5 @@ Global Axis Gas-Vision
 Global Axis Liquid-Vision
 Blackscale-Vision(the lit universe without light for reality)
 Hose
+Writing Pen
+Paper
